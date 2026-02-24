@@ -8,4 +8,5 @@ dist/
 build/
 output/
 
-data/
+imdb_model/
+results/
